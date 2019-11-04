@@ -4,6 +4,4 @@
 
 layout: home
 ---
-# Taylor Series
-
 This site is a home for my blog and documentation on code that I write.

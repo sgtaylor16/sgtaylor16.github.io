@@ -3,6 +3,7 @@ layout: post
 title: "New First Post"
 date: 2019-10-26
 categories: personal
+tags: personal
 ---
 
 # Kick Start
