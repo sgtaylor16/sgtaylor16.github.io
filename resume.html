@@ -24,11 +24,35 @@ permalink: /resume/
 
         .Resume h2 {font-size:14pt;
                 text-decoration-line: underline;}
+
+        .grid-container {
+                        display: grid;
+                        grid-template-columns: auto auto auto;
+                        border-bottom-style: solid;
+                        border-bottom-color: gray;
+                        margin-bottom: 6pt;
+                        }
+
+        .navbar {
+                overflow: hidden;
+                background-color: #333;
+                position: fixed; /* Set the navbar to fixed position */
+                top: 0; /* Position the navbar at the top of the page */
+                width: 100%; /* Full width */
+                }
                 
     </style>
 </head>
 <body>
+
 <div class = "Resume">
+
+    <div class="grid-container">
+        <div class="grid-item"><a href="#Summary">Summary</a></div>
+        <div class="grid-item"><a href="#Experience">Experience</a></div>
+        <div class="grid-item"><a href="#Education">Education</a></div>
+    </div>
+
     <div id = "Top">
         <div class= "name">Scott Taylor</div>
         <div class = "addinfo">e-mail: sgtaylor16@gmail.com</div>
@@ -36,7 +60,7 @@ permalink: /resume/
         <div class = "addinfo">github: <a href = "https://github.com/sgtaylor16/">github.com/sgtaylor16</a></div>
         <div class = "addinfo">mobile: 317-308-0622</div>
     </div>
-    <h1>Summary</h1>
+    <h1 id="Summary">Summary</h1>
         <ul>
             <li>15 years of project/program management experience.</li>
             <li>Experienced managing large, multi-disciplanry programs from clean-sheet design to production. Responsibilties include simultaneously managing schedule, performance and budget for programs $4-6 million in annual budget.</li>
@@ -46,10 +70,11 @@ permalink: /resume/
             <li>Proficient coder, including: Python, pandas, javascript.</li>   
         </ul>
 
-    <h1>Professional Experience</h1>
+    <h1 id="Experience">Experience</h1>
     <h2>Rolls-Royce Aerospace, Indianapolis, IN, 2012-Current</h2>
     <ul>
         <li>Program Lead for Development of Ceramic Matrix Composite (<a href = "https://en.wikipedia.org/wiki/Ceramic_matrix_composite">CMC</a>) <a href = "https://www.aero-mag.com/rolls-royce-advance3-ultrafan-engine-additive-layer-manufacturing-ceramic-matrix-composites/">Turbine Seal Segments</a></li>
+        <li>Manager for team of 17 engineers responsible for support of Trent Engines.</li>
         <li>Led RB3043 composite fan case program.  Scope included managing design, fabrication and testing of composite fan cases including:</li>
             <ul>
                 <li>Interfacing with manufacturing facility (<a href = "https://www.rolls-royce.com/media/press-releases/2015/pr-180315-rr-composite-technology-hub-in-bristol.aspx">CTAL </a>) at all levels of management.</li>
@@ -68,7 +93,7 @@ permalink: /resume/
         <li>Led development of new combustor for Honywell's <a href = "https://www.youtube.com/watch?v=nBR40CLeDlA">TFE731</a> turbofan engine for
         reduced production and maintenance costs.</li>
 
-    <h1>Education</h1>
+    <h1 id="Education">Education</h1>
     <h2><img src = "/assets/standard.png" width = "100">University of Michigan, Ann Arbor, MI   </h2>
     <p>Masters of Science in Mechanical Engineering, June 2000</p>
     <p>GPA: 3.94/4.00</p>
