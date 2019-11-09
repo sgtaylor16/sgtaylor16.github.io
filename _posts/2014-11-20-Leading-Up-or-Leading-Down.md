@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Leaading Up or Leading Down"
+title: "Leading Up or Leading Down"
 date: 2014-08-14
 categories: leadership
 tags: leadership
