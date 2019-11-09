@@ -1,5 +1,5 @@
 ---
-permalink: /snippets/openwith/
+permalink: /snippets/relativetext/
 title: ' '
 ---
 ## Add text to a plot with relative position.
