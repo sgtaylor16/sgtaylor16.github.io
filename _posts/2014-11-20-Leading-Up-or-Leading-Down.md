@@ -5,7 +5,6 @@ date: 2014-08-14
 categories: leadership
 tags: leadership
 ---
-
 When I think of how to categorize different styles of leadership, one that I often use first is whether someone "leads up" or "leads down".
 
 Someone who leads up views his team's main purpose to serve him in fulfilling his job.   Someone who leads up concerns herself with making herself look good to her superiors more than how she is perceived by those she leads.  At it's most worst, leading up means shifting blame to members of your team rather than taking responsibility as the ultimate leader of that team and viewing the current position only as a stepping stone to the next higher one.
