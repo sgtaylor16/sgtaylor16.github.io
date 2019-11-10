@@ -1,5 +1,5 @@
 ---
-permalink: /snippets//openwith
+permalink: /snippets/openwith/
 title: ' '
 ---
 
