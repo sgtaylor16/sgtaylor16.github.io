@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visual Technology Roadmap"
-date: 2019-12-15
+date: 2019-12-7
 published: true
 ---
 ![](/assets/TRL.png)
