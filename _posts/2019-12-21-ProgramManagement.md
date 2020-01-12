@@ -12,15 +12,15 @@ If program management is facing a similar point in it's history (with much less 
 
 # The Movement from Complicated to Complex
 
-Blaming the move from complicated to complex is a popular excuse, so one needs to be particularly cautious in attributing problems to this. My personal experience (sample size 1) tells me that this is an issue.  Companies and governments continue to insist on creating very detailed plans for a program's execution, but before the ink can even dry on the plans, managers are asked to change objectives and create new plans. No matter how detailed and well intentioned plans are, they often miss what in retrospect what the true time consuming factors were. 
+Blaming the move from complicated to complex is a popular excuse, so one needs to be particularly cautious in attributing problems to this. My personal experience (sample size 1) tells me that this is an issue.  Companies and governments continue to insist on creating very detailed plans for a program's execution, but before the ink can even dry on the plans, managers are asked to change objectives and create new plans. No matter how detailed and well intentioned plans are, they often miss what in retrospect were the true time consuming factors.
 
 At least two challenges need to be addressed in regards to complexity. First, it should be proven that programs have become more complex over time with quantitative data and analysis rather than anecdotal stories. This is not easy to do. In today's world programs throw off lot's of data that might be used to measure complexity. But to capture the levels of complexity over time will require finding quantitative measurements for programs in the past when data was not generated so easily.
 
-Assuming that growing complexity is a problem, another challenge is how to develop schedules that are more accommodating to the surprises and randomness inherent in complexity. I believe these plans need to focus on making sure that they are working on the most important tasks at a given time. And what are *the most important tasks*. Traditionally the critical tasks would be the task that is on the critical path. The critical path is the path through a Gantt chart that has zero slack - it sets the total calendar time of a program. But in a more complex world, perhaps it might make sense to more heavily prioritize tasks that add complexity or uncertainty to a program and eliminate them if possible.
+Assuming that growing complexity is a problem, another challenge is how to develop plans that are more accommodating to the surprises and randomness inherent in complexity. I believe these plans need to focus on making sure that they are working on the most important tasks at a given time. And what are *the most important tasks*. Traditionally the critical tasks would be the task that is on the critical path. The critical path is the path through a Gantt chart that has zero slack - it sets the total calendar time of a program. But in a more complex world, it might make sense to more heavily prioritize tasks that could reduce complexity or uncertainty to a program and eliminate them if possible.
 
 # Living with Uncertainty
 
+Program timelines and results are not deterministic - there are many random variables involved. We need to figure out better ways to use probability and statistics to both manage our projects and communicate their status. People have tried to use tools like three point estimates to capture uncertainty, but they typically lack good data upon which to make good assessments of the probability of different scenarios. What are the best ways to collect data that can later be used to calculate variability. 
 
 
-# Talent
 
