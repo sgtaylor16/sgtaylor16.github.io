@@ -1,0 +1,10 @@
+---
+layout: post
+title: "The Tables Have Turned"
+date: 2020-02-14
+published: true
+---
+
+Through the late nineties until the late 00', [Eclipse Aviation](https://en.wikipedia.org/wiki/Eclipse_Aviation) attempted and failed to bring an "affordable" general aviation jet aircraft to market. The company was founded by a man who made his fortune as an early employee of Microsoft. I was a young engineer in a traditional aerospace company through this time. My attitude at the time was that arrogant software execs were wading into a realm of real hardware and regulation where their software experience and practices were not useful. I would guess that my attitude was the prevalent one among my contemporaries.
+
+Fast forward nearly 20 years later and it seems the tables have fully turned. Software, and the development techniques that it fostered have eaten the world. It seems Boeing nearly lost its space capsule entirely during its flight due to [software bugs](https://www.washingtonpost.com/technology/2020/02/07/boeing-starliner-software-problems/). The world's auto companies are all struggling desperately to adept to the new world that Tesla has created.  The end of the IC engine may be in sight. I have just bought a Model 3. The software in it is several levels above what you will see in any other car. I've never worked for any of the auto, but I suspect the environment isn't too different than the traditional aerospace company I work for today. There is no way my company has the depth of software talent to put a product like that on the market, and it would have little prospect of being able to attract the talent if the need arose like it has now for the historical auto companies.  The tables have fully turned since the days of Eclipse. Now it seems like it's the the traditional large industrial companies that will never figure out how to adept the techniques that the software companies introduced.
