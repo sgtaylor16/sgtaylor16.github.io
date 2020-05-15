@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Classifying Projects Part 1"
+title: "Classifying Projects Part I"
 date: 2020-05-15
 published: True
 ---
