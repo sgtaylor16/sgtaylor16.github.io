@@ -5,8 +5,6 @@ date: 2020-05-15
 published: True
 ---
 
-# Introduction
-
 This is the first post of what I think will be a three part series on a project I worked on a couple of years ago. I am proud of this work for being a pretty original application (I have yet to see anything similar to it) even if is not the most advanced machine learning application you'll see out there.
 
 This post will give an overview of the work - what problem am I trying to solve and how did I attack it. The second post will go into the details of the feature engineering that I applied to the data.  The last post will then show how I used the features created described in the second post to feed into a dimensional reduction exercise (PCA) followed by clustering.
