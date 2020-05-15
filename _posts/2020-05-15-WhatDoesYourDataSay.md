@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Does Your Data Say"
+title: "What Does Your Data Say?"
 date: 2020-05-15
 published: true
 ---
