@@ -1,6 +1,6 @@
 ---
 permalink: /snippets/uniqued3/
-title: 'Get unique values from a Javascript Object'
+title: ''
 ---
 
 Often times when working in D3, I want to get a list of unique values from a column of data. There is no specific function for this, but the below works:
