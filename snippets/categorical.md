@@ -10,7 +10,7 @@ title: ' '
 s = pd.Series(["a","b","c","a", dtype = "category")
 ```
 
-* by converting an existing series or column to a category dtype.
+* By converting an existing series or column to a category dtype.
 
 ```python
 df = pd.DataFrame({"A":["a", "b", "c", "a"]})
