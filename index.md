@@ -4,4 +4,4 @@
 
 layout: home
 ---
-This site is a home for my blog and documentation on code that I write.
+<p style="font-size:18pt;font-style: oblique;">Project Management, Probability, and Code</p>
