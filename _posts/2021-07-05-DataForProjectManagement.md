@@ -4,6 +4,7 @@ title: "Data for Project Management"
 date: 2021-07-05
 published: true
 ---
+
 The field of data science has burst on to the scene in the last decade. A requisite for this was the avalanche of data that our networked
 world has made available to us. Data science and machine learning work best when they are presented with large amounts of data. Amounts 
 that were not available in the past. I haven't seen much effort in the area of project management to collect data at the levels required
