@@ -1,0 +1,72 @@
+---
+layout: post
+title: "Data for Project Management"
+date: 2021-7-5
+published: false
+---
+The field of data science has burst on to the scene in the last decade. A requisite for this was the avalanche of data that our networked
+world has made available to us. Data science and machine learning work best when they are presented with large amounts of data. Amounts 
+that were not available in the past. I haven't seen much effort in the area of project management to collect data at the levels required
+to use modern data science/ML and then explore uses for that data. I've been involved in project management for around twenty years. What 
+counts as good project management hasn't evolved at all. Twenty four year old me could step into 2021 and recognize all the tools
+(PowerPoint charts and Excel spreadsheets mostly) and processes that are used today. That's not a good thing.
+
+What are the best opportunities for collecting data in hopes of applying modern data science/ML to program management? Below are what I think
+are some of the best opportunities for harvesting data, followed by what you might be able to do with that data.
+
+# Sources of Data
+
+## Timekeeping
+
+At least in companies that have defense contract business, detailed data is collected data by each person on what projects they worked on 
+each day, and how many hours they worked on them. Unique charge codes are given to projects, and often projects inside of projects. That data]
+is uploaded into some database. The reason this data is collected is for the US government and the company to agree on rates to pay by the hour
+on government contracts, but it can be used for other purposes as well. Type of data that is in every entry in the database usually includes:
+
+* Project Code - what project the time is being charged to.
+* Date - What day the hours were applied to the project code.
+* Cost - The cost of the hours
+* Skill - Typically the person applying the hours has been assigned a skill (e.g. design, analysis, purchasing)
+* Person - The name of the person charging.
+* Department - The organization that the person belongs to.
+
+## Part Trackers
+
+I have experience at two (admittedly very old-school) aerospace companies - Honeywell and Rolls-Royce. My experience with these two is very 
+consistent. When programs that requires a lot (~ 15 or more) of parts to design and make some type of crude (usually Excel) type of parts
+tracker is created. The parts tracker keeps track of things like:
+
+* The status of new drawings for parts.
+* When orders are placed for new parts and for how much.
+* Part quantities on hand (from which shortages can be calculated)
+* Expected delivery
+* Instrumentation status
+
+One might ask why this information isn't track of in the enterprise wide databases that large companies have that keep track of similar
+data on programs in production? The reason has been that the bueacracy invloved with adding data to these databases is too onerous to
+move with the speed and low overhead that is needed for new product development.
+
+## Meeting Notes
+
+It may be able to parse program's meeting notes with __N__atural __L__anguage __P__rocessing (NLP) to gleam data regarding a program's
+status and health.
+
+## Milestone Trackers
+
+Wouldn't it be great if we could use milestone trackers for something besides making people feel bad about themselves? I d
+
+## Using the Data
+
+Once we have figured out potential sources of data, we need to figure out how to make good use of it. Today, project plans are almost always
+made entirely from MS Project Gannt charts. Gannt charts have an important role in nearly all plans but they promote the idea that programs march
+orderly through distinct tasks. When one task completes, another one starts. This is not how any project I have worked on actually works.
+Reality is much messier. But amidst that the messiness of real projects, repeatable patterns undoubtedly exist. Machining learning algorithms 
+excel at finding the patterns in data - but it usually takes a lot of data. We need to start collecting that data from sources like the ones 
+I mention above. Have you seen Moneyball?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rgXESVtWX3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+I think of this scene often. We
+
+
