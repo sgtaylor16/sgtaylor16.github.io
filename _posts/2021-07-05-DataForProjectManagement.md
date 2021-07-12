@@ -14,7 +14,7 @@ I love this scene in the movie. It's when Billy Bean's analytical style of build
 
 So how do we bring Moneyball to Program Management? I think it's at least three steps<sup>[4](#standard)</sup>: Identifying the opportunities for harvesting the data, standardizing how that data is formatted so that it can be collated at scale, and finally analyzing the data. The field of data science has burst on to the scene in the last decade. A requisite for this to occur was the avalanche of data that our networked world has made available to us. Data science and machine learning work best when they are presented with large amounts of data. Amounts that were not available in the past. I haven't seen any effort in the area of project management to collect data at the levels required to use modern data science/ML and then explore uses for that data. Below are some of the opportunities that I think about.
 
-<h1>Harvesting the Data</h1>
+<h1 style="font-size:20">Harvesting the Data</h1>
 
 Identifying the most useful sources of data is the first step. Some of these sources often already exist, others might need some work to create.
 
