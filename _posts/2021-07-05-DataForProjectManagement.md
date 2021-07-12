@@ -14,7 +14,7 @@ I love this scene in the movie. It's when Billy Bean's analytical style of build
 
 So how do we bring Moneyball to Program Management? I think it's at least three steps<sup>[4](#standard)</sup>: Identifying the opportunities for harvesting the data, standardizing how that data is formatted so that it can be collated at scale, and finally analyzing the data. The field of data science has burst on to the scene in the last decade. A requisite for this to occur was the avalanche of data that our networked world has made available to us. Data science and machine learning work best when they are presented with large amounts of data. Amounts that were not available in the past. I haven't seen any effort in the area of project management to collect data at the levels required to use modern data science/ML and then explore uses for that data. Below are some of the opportunities that I think about.
 
-<h1 style="font-size:60px">Harvesting the Data</h1>
+<h1 style="font-size:40px">Harvesting the Data</h1>
 
 Identifying the most useful sources of data is the first step. Some of these sources often already exist, others might need some work to create.
 
@@ -51,11 +51,11 @@ It may be able to parse program's meeting notes with Natural Language Processing
 
 Wouldn't it be great if we could use milestone trackers for something besides making people feel bad about themselves? It seems we only use milestones to use against people at performance review time. Ask anyone where the milestone results are for past years you won't get anything useful back. It's possible milestone history can be used to measure the success or failure of changes to PM practices over time. This can only be done if milestone history is saved year-over-year.
 
-<h1>Organizing the Data</h1>
+<h1 style="font-size:40px">Organizing the Data</h1>
 
 As were figuring out what data we want to collect we need to think about what formats we store it in so that we can use more easily use the data with modern data science tools. Storing files in proprietary formats like MS Office products makes getting at big data very difficult. Ways should be found to store data in flat text files at a minimum, maybe databases for larger data stores. This is not new ground. People working in data science have to think about this on a daily basis I think.
 
-<h1>Using the Data</h1>
+<h1 style="font-size:40px">Using the Data</h1>
 
 Assuming we identify good potential sources of data, and collect the data in a way that makes the data easy to use, we still need to analyze the data. But that's the fun part. If we have the discipline to execute the first two steps, there's little doubt that people will analyze the data in many different useful ways. Studying data generated from real projects may help us understand how large projects really develop. The main way we describe projects today is with Gannt charts. Gannt charts are very useful, and I wouldn't want to give them up. But Gannt charts do not capture the real chaos in any large development program. Task B does not actually start cleanly when Task A is neatly completed and I would guess a fair fraction of the work that is completed in a program never had a clear home in the Gannt chart shown to management or the customer. Looking at historical data through a lens other then Gannt charts may help us understand patterns in how resources are expended to complete tasks in real life. Learning from this exercise may create new ways to estimate new projects or monitor the health of existing ones.
 
