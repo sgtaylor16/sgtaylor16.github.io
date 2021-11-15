@@ -30,4 +30,4 @@ After reading this book I'm going to be much more skeptical anytime I hear phras
 
 [^1]: I think it is very likely that my corporate trainers had no ideas about Bayes equation and it might even be true that my college instructors (who weren't statistics PhD's) did either.
 
-[^2]: The "|" symbol in the equation <p>P(H|D) means the probability of H conditioned on D, or probability of H given D.
+[^2]: The "|" symbol in the equation P(H|D) means the probability of H conditioned on D, or probability of H given D.
