@@ -18,9 +18,9 @@ This counter-intuitive statement follows directly from Bayes theorem:
 
 <p>P(H|D) = P(D|H) * P(H)/P(D)</p>
 
-which follows from a simple algebraic manipulation of the following identity:
+which follows from a simple algebraic manipulation of the following identity[^2]:
 
-<p>P(H and D) = P(H|D)*P(D) = P(D|H)*P(H)</p>[^2]
+<p>P(H and D) = P(H|D)*P(D) = P(D|H)*P(H)</p>
 
 All of frequentist probability focuses on the what the probability of the data is given the hypothesis. If the data is very unlikely, one rejects the null hypothesis. But Bayes tells you you must also consider the <i>prior</i> probability P(H).
 
