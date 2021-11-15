@@ -14,7 +14,7 @@ The author starts the book with the fundamental idea that you have to work your 
 
 <i>The probability of the hypothesis given the data is __not equal__ to the probability of the data given the hypothesis.</i> This counter-intuitive statement follows directly from Bayes theorem:
 
-P(H|D) = P(D|H) * P(H)/P(D)
+<p>P(H|D) = P(D|H) * P(H)/P(D)</p>
 
 
 [^1]: I think it is very likely that my corporate trainers had no ideas about Bayes equation and it might even be true that my college instructors (who weren't statistics PhD's) did either.
