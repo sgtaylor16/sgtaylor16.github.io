@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Iconoclast Quotes
-permalink: /resume/
+permalink: /quotes/
 ---
 >Save it for the last minute it only takes a minute - Random Air Force Academy Cadet from a long time ago.
 
