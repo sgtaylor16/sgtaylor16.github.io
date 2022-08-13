@@ -2,7 +2,7 @@
 layout: post
 title: "Part Tracker"
 date: 2021-08-15
-published: true
+published: false
 ---
 
 I'm working on a new development program right now - one that will require a reasonable amount of new hardware. I talked about the need for 
