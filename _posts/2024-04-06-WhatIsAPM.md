@@ -22,6 +22,8 @@ I enjoyed Mr. Mock’s succinct description of his role. It made me wonder if I 
 
 Communicate the status of the program to a larger audience - This is fairly obvious, and least controversial. You have to be able to communicate status, successes and challenges to others in your company, and to customers, clearly.
 
+<div id="problemsolver"></div>
+
 Problem solver of last resort - Projects have all kind of random problems that pop up that don’t fit neatly into anyone’s responsibility. Those problems become the program managers to solve.
 
 Now the big ones
